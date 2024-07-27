@@ -9,10 +9,10 @@ My expertise lies in backend development, with hands-on experience in C#, JavaSc
 I’m driven by continuous learning and personal growth, and I’m deeply interested in networking, AI development, cybersecurity, and organizational behavior. On this GitHub, you'll find a collection of my projects and contributions that reflect my passion for technology and problem-solving. I'm always seeking new challenges and opportunities to expand my horizons and make meaningful contributions to the tech community.
 
 ## Skills
-- **Languages**: C#, JavaScript, PHP
-- **Technologies**: REST APIs, SQL, PostgreSQL
+- **Languages**: C#, JavaScript (Node.js and Express), Restful APIs, MySQL, PostgreSQL,  JSON, JQuery
+- **Technologies**: REST APIs, SQL, PostgreSQL, XML
 - **Concepts**: RDBMS, TCP/IP, IT Support
-- **Tools**: Git, Docker
+- **Tools**: Git, Docker, Kubernetes and OpenShift
 
 
 ## Contact Information
