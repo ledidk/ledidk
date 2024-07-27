@@ -10,7 +10,7 @@ I’m driven by continuous learning and personal growth, and I’m deeply intere
 
 ## Skills
 - **Languages**: C#, JavaScript (Node.js and Express), Restful APIs, MySQL, PostgreSQL,  JSON, JQuery
-- **Technologies**: REST APIs, SQL, PostgreSQL, XML
+- **Technologies**: REST APIs, SQL, PostgreSQL
 - **Concepts**: RDBMS, TCP/IP, IT Support
 - **Tools**: Git, Docker, Kubernetes and OpenShift
 
