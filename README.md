@@ -14,9 +14,6 @@ I’m driven by continuous learning and personal growth, and I’m deeply intere
 - **Concepts**: RDBMS, TCP/IP, IT Support
 - **Tools**: Git, Docker
 
-## Projects
-- **[Project Name](URL)**: A brief description of what the project is, its purpose, and technologies used.
-- **[Another Project Name](URL)**: Another brief description, technologies used, and any notable features or contributions.
 
 ## Contact Information
 - **LinkedIn**: [Your LinkedIn Profile URL](https://www.linkedin.com/in/diontakir/)
