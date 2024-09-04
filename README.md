@@ -16,5 +16,5 @@ I’m driven by continuous learning and personal growth, and I’m deeply intere
 
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn Profile URL](https://www.linkedin.com/in/diontakir/)
+- **LinkedIn**: [https://www.linkedin.com/in/diontakir/](https://www.linkedin.com/in/diontakir/)
 - **Email**: [ddkntakirutimana@gmail.com](mailto:ddkntakirutimana@gmail.com)
