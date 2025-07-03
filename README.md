@@ -2,18 +2,14 @@
 
 ## About Me
 
-I'm a passionate programmer whose journey began at Algonquin College, where I developed skills in Web Development and Internet Applications. Currently, I work as a Service Desk Professional at 2Keys, an Interac Company, while pursuing my goal of becoming a full-stack software developer.
+Aspiring full-stack developer with a focus on backend. I currently work in IT support at Interac (2Keys) and build projects to grow my skills in C#, JavaScript, SQL, and REST APIs.
 
-My expertise lies in backend development, with hands-on experience in C#, JavaScript, REST APIs, PHP, SQL, and PostgreSQL. I also have a solid background in RDBMS, TCP/IP, and IT support, which provides me with a well-rounded understanding of technology.
-
-I’m driven by continuous learning and personal growth, and I’m deeply interested in networking, AI development, cybersecurity, and organizational behavior. On this GitHub, you'll find a collection of my projects and contributions that reflect my passion for technology and problem-solving. I'm always seeking new challenges and opportunities to expand my horizons and make meaningful contributions to the tech community.
+Here you’ll find what I’m learning and building — from web apps to system tools — all driven by curiosity and a love for clean, practical code.
 
 ## Skills
-- **Languages**: C#, JavaScript (Node.js and Express), Restful APIs, MySQL, PostgreSQL,  JSON, JQuery
-- **Technologies**: REST APIs, SQL, PostgreSQL
-- **Concepts**: RDBMS, TCP/IP, IT Support
-- **Tools**: Git, Docker, Kubernetes and OpenShift
-
+Languages: C#, JavaScript (Node.js, Express), SQL, PostgreSQL
+Tools: Git, Docker, Kubernetes, OpenShift
+Other: REST APIs, RDBMS, TCP/IP, IT Support 
 
 ## Contact Information
 - **LinkedIn**: [https://www.linkedin.com/in/diontakir/](https://www.linkedin.com/in/diontakir/)
