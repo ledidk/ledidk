@@ -1,16 +1,20 @@
-## Hi, I'm Dieudonne 👋
+Hi, I'm Dieudonne Ntakirutimana 
 
-## About Me
+Backend-focused software developer building automation systems, APIs, and data-driven platforms.
 
-Aspiring full-stack developer with a focus on backend. I currently work in IT support at Interac (2Keys) and build projects to grow my skills in C#, JavaScript, SQL, and REST APIs.
+### What I work on
+- Backend APIs and integrations  
+- Automation workflows (WhatsApp, webhooks, AI tools)  
+- Data-oriented platforms and business tools  
 
-Here you’ll find what I’m learning and building — from web apps to system tools — all driven by curiosity and a love for clean, practical code.
+### Featured Projects
+- ShipAssist — WhatsApp automation for shipment tracking  
+- IsokoDocs — Community digital archive platform  
+- WhatsApp Boutique Store — Small business storefront tool  
 
-## Skills
-Languages: C#, JavaScript (Node.js, Express), SQL, PostgreSQL
-Tools: Git, Docker, Kubernetes, OpenShift
-Other: REST APIs, RDBMS, TCP/IP, IT Support 
+### Tech Focus
+Python, Django, REST APIs, PostgreSQL, React, Docker, Git, Automation tools
 
-## Contact Information
+- **Portfolio**: [https://www.dieudonne.ca/](https://www.www.dieudonne.ca/)
 - **LinkedIn**: [https://www.linkedin.com/in/diontakir/](https://www.linkedin.com/in/diontakir/)
 - **Email**: [ddkntakirutimana@gmail.com](mailto:ddkntakirutimana@gmail.com)
