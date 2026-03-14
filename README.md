@@ -8,9 +8,9 @@ Junior Data Analyst and backend developer. I work on simple web tools, automatio
 - Small business websites and automation tools  
 
 ### Projects
-- **ShipAssist** — WhatsApp automation for small business orders  
-- **IsokoDocs** — Digital archive platform for community use  
-- **WhatsApp Boutique Store** — Online storefront tool for local businesses  
+- **ShipAssist**: WhatsApp automation for small business orders  
+- **IsokoDocs**: Digital archive platform for community use  
+- **WhatsApp Boutique Store**: Online storefront tool for local businesses  
 
 ### Tech
 Python, Django, SQL, PostgreSQL, Excel, REST APIs, React, Docker, Git
