@@ -31,7 +31,8 @@ REST APIs · WhatsApp — Online catalog with direct WhatsApp checkout for small
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ledidk&show_icons=true&theme=dark&hide_border=true&hide=issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=ledidk&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledidk&layout=compact&theme=dark&hide_border=true)
 
 ---
