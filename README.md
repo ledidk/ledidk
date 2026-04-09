@@ -11,7 +11,7 @@ IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance �
 **[IsokoDocs](https://github.com/ledidk/isokodocs)**
 Django · PostgreSQL · React - Digital archive platform for community document sharing
 
-**[WhatsApp Boutique Store](https://github.com/ledidk/whatsapp-boutique)**
+**[WhatsApp Boutique Store]([https://github.com/ledidk/whatsapp-boutique](https://boutique7tore.netlify.app/))**
 REST APIs · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
 
 ---
