@@ -1,6 +1,6 @@
 # Dieudonne Ntakirutimana
 
-> Backend developer · Data analyst · Ottawa
+> Backend developer · Data analyst · Ottawa, Ontario
 
 IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
 
