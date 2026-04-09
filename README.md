@@ -1,24 +1,32 @@
-# Hi, I'm Dieudonne Ntakirutimana 👋
+# Dieudonne Ntakirutimana
 
-Junior Data Analyst and backend developer. I work on simple web tools, automation, and data projects for small businesses and community use.
+Backend developer and junior data analyst based in Ottawa.
+IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
 
-### What I work on
-- SQL and Python for data analysis  
-- Backend APIs and integrations  
-- Small business websites and automation tools  
+---
 
-### Projects
-- **ShipAssist**: WhatsApp automation for small business orders  
-- **IsokoDocs**: Digital archive platform for community use  
-- **WhatsApp Boutique Store**: Online storefront tool for local businesses  
+## Projects
 
-### Tech
-Python, Django, SQL, PostgreSQL, Excel, REST APIs, React, Docker, Git
+**[IsokoDocs](https://github.com/ledidk/isokodocs)**
+Full-stack digital archive built with Django, PostgreSQL, and React.
+Communities can upload, organize, and browse shared documents securely.
 
-### About Me
-I started in IT support and backend development, helping with databases, feedback systems, and small web projects. I enjoy building simple tools and solutions that make everyday tasks easier for people and local businesses.
+**[WhatsApp Boutique Store](https://github.com/ledidk/whatsapp-boutique)**
+Online product catalog for small businesses.
+Customers browse and checkout directly via WhatsApp.
 
-### Connect
-- **Portfolio**: [https://www.dieudonne.ca/](https://www.dieudonne.ca/)  
-- **LinkedIn**: [https://www.linkedin.com/in/diontakir/](https://www.linkedin.com/in/diontakir/)  
-- **Email**: [ddkntakirutimana@gmail.com](mailto:ddkntakirutimana@gmail.com)
+---
+
+## Tech
+
+**Languages:** Python · C# · JavaScript · SQL
+**Frameworks:** Django · ASP.NET Core · React
+**Data:** Pandas · Matplotlib · Excel
+**Infrastructure:** PostgreSQL · REST APIs · Docker · Git · Azure
+
+---
+
+## Connect
+
+[dieudonne.ca](https://www.dieudonne.ca) ·
+[LinkedIn](https://www.linkedin.com/in/dieudonnentakirutimana/)
