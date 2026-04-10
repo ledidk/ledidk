@@ -12,7 +12,7 @@ IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance �
 Django · PostgreSQL · React - Digital archive platform for community document sharing
 
 **[WhatsApp Boutique Store](https://github.com/ledidk/whatsapp-boutique)**
-REST APIs · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
+TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
 
 ---
 
