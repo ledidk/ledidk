@@ -29,9 +29,9 @@ TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small 
 
 ---
 
-## GitHub Stats
+## GitHub Stats 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ledidk&theme=dark&hide_border=true&cache_seconds=86400)
+![Stats](https://streak-stats.demolab.com?user=ledidk&theme=dark&hide_border=true)
 
 🌐 [dieudonne.ca](https://www.dieudonne.ca) · 
 💼 [LinkedIn](https://www.linkedin.com/in/dieudonnentakirutimana/)
