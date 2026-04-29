@@ -31,7 +31,7 @@ TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small 
 
 ## GitHub Stats
 
-![Stats](https://streak-stats.demolab.com?user=ledidk&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ledidk&show_icons=true&theme=dark)
 
 ---
 
