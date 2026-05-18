@@ -2,7 +2,7 @@
 
 > Backend developer · Data analyst · Ontario, Canada
 
-Backend Developer IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
+Backend Developer · IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
 
 ---
 
