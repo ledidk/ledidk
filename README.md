@@ -1,8 +1,8 @@
 # Dieudonne Ntakirutimana
 
-> Backend developer · Data analyst · Ontario, Canada · Open to Relocation
+> Backend developer · Data analyst · Ontario, Canada
 
-IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
+Backend Developer IBM Data Analyst · Azure AI-900 · Google IT Support · Reliability Clearance · EN/FR
 
 ---
 
