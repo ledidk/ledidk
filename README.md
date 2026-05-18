@@ -8,13 +8,13 @@ Backend Developer · IBM Data Analyst · Azure AI-900 · Google IT Support · Re
 
 ## Projects
 
-**[IsokoDocs](https://www.isokodocs.org/)**
+**[IsokoDocs:](https://www.isokodocs.org/)**
 Django · PostgreSQL · React - Digital archive & Collaborative Intelligence Platform
 
-**[ISOKO](https://www.youtube.com/watch?v=AwvpRKxAFnk)**
+**[ISOKO:](https://www.youtube.com/watch?v=AwvpRKxAFnk)**
 React · Express 5 · TypeScript · Offline-first POS & Inventory Management Platform for African Local Small Shops
 
-**[WhatsApp Boutique Store](https://boutique7tore.netlify.app/)**
+**[WhatsApp Boutique Store:](https://boutique7tore.netlify.app/)**
 TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
 
 ---
