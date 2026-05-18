@@ -8,8 +8,8 @@ Backend Developer · IBM Data Analyst · Azure AI-900 · Google IT Support · Re
 
 ## Projects
 
-**[IsokoDocs](https://github.com/ledidk/isokodocs)**
-Django · PostgreSQL · React - Digital archive platform for community document sharing
+**[IsokoDocs](https://www.isokodocs.org/)**
+Django · PostgreSQL · React - Digital archive & Collaborative Intelligence Platform
 
 **[WhatsApp Boutique Store](https://boutique7tore.netlify.app/)**
 TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
