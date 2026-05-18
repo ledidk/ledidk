@@ -14,6 +14,9 @@ Django · PostgreSQL · React - Digital archive & Collaborative Intelligence Pla
 **[ISOKO](https://www.youtube.com/watch?v=AwvpRKxAFnk)**
 React · Express 5 · TypeScript · Offline-first POS & Inventory Management Platform for African Local Small Shops
 
+**[WhatsApp Boutique Store](https://boutique7tore.netlify.app/)**
+TypeScript · WhatsApp - Online catalog with direct WhatsApp checkout for small businesses
+
 ---
 
 ## Tech
