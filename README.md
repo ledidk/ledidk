@@ -8,22 +8,22 @@ Python · Django · SQL · C# · ASP.NET Core · IBM Data Analyst · Azure AI-90
 ## Projects
 
 **[IsokoDocs](https://www.isokodocs.org/)**
-Django · PostgreSQL · React — Community archive and thread-based discussion platform for Burundian history and documentation.
+Django · PostgreSQL · React · Community archive and thread-based discussion platform for Burundian history and documentation.
 
 **[Isoko POS](https://isoko-pos-master.netlify.app/)**
-React 18 · Express 5 · TypeScript — Offline-first point-of-sale and inventory system for small retailers in Sub-Saharan Africa. FIFO batch inventory, customer loyalty, PIN-based role access, GitHub as data store.
+React 18 · Express 5 · TypeScript · Offline-first point-of-sale and inventory system for small retailers in Sub-Saharan Africa. FIFO batch inventory, customer loyalty, PIN-based role access, GitHub as data store.
 
 **[Isuso Works](https://isusoworks.ca/)**
-Web studio — client sites, e-commerce, and digital tools for small businesses across Ottawa and beyond.
+Web studio · client sites, e-commerce, and digital tools for small businesses across Ottawa and beyond.
 
 **[WhatsApp Boutique](https://boutique7tore.netlify.app/)**
-React · TypeScript — Online catalog with direct WhatsApp checkout for small businesses.
+React · TypeScript · Online catalog with direct WhatsApp checkout for small businesses.
 
 **[OC Transpo Reliability Analysis](https://dieudonnentakir.netlify.app/project-octranspo)**
-Python · Pandas · Matplotlib — On-time performance, delay patterns, and route breakdowns using open City of Ottawa data.
+Python · Pandas · Matplotlib · On-time performance, delay patterns, and route breakdowns using open City of Ottawa data.
 
 **[Canada Rent vs Salary](https://dieudonnentakir.netlify.app/project-rentanalysis)**
-Python · Jupyter · Pandas — Asking rents vs Data Analyst wages across Canadian cities. Statistics Canada data.
+Python · Jupyter · Pandas · Asking rents vs Data Analyst wages across Canadian cities. Statistics Canada data.
 
 ---
 
