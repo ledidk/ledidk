@@ -7,17 +7,17 @@ Python · Django · SQL · C# · ASP.NET Core · IBM Data Analyst · Azure AI-90
 
 ## Projects
 
-**[IsokoDocs](https://www.isokodocs.org/)**
-Django · PostgreSQL · React · Community archive and thread-based discussion platform for Burundian history and documentation.
-
 **[Isoko POS](https://isoko-pos-master.netlify.app/)**
 React 18 · Express 5 · TypeScript · Offline-first point-of-sale and inventory system for small retailers in Sub-Saharan Africa. FIFO batch inventory, customer loyalty, PIN-based role access, GitHub as data store.
 
-**[Isuso Works](https://isusoworks.ca/)**
-Web studio · client sites, e-commerce, and digital tools for small businesses across Ottawa and beyond.
-
 **[WhatsApp Boutique](https://shopitt.app/demo-boutique/)**
 Vite · React · TypeScript · Supabase ·  A multi-tenant SaaS platform that lets anyone create a free online storefront and receive orders directly via WhatsApp.
+
+**[IsokoDocs](https://www.isokodocs.org/)**
+Django · PostgreSQL · React · Community archive and thread-based discussion platform for Burundian history and documentation.
+
+**[Isuso Works](https://isusoworks.ca/)**
+Web studio · client sites, e-commerce, and digital tools for small businesses across Ottawa and beyond.
 
 **[OC Transpo Reliability Analysis](https://dieudonnentakir.netlify.app/project-octranspo)**
 Python · Pandas · Matplotlib · On-time performance, delay patterns, and route breakdowns using open City of Ottawa data.
