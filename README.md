@@ -16,8 +16,8 @@ React 18 · Express 5 · TypeScript · Offline-first point-of-sale and inventory
 **[Isuso Works](https://isusoworks.ca/)**
 Web studio · client sites, e-commerce, and digital tools for small businesses across Ottawa and beyond.
 
-**[WhatsApp Boutique](https://boutique7tore.netlify.app/)**
-React · TypeScript · Online catalog with direct WhatsApp checkout for small businesses.
+**[WhatsApp Boutique](https://shopitt.app/demo-boutique/)**
+Vite · React · TypeScript · Supabase ·  A multi-tenant SaaS platform that lets anyone create a free online storefront and receive orders directly via WhatsApp.
 
 **[OC Transpo Reliability Analysis](https://dieudonnentakir.netlify.app/project-octranspo)**
 Python · Pandas · Matplotlib · On-time performance, delay patterns, and route breakdowns using open City of Ottawa data.
